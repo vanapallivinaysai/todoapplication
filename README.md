@@ -20,4 +20,5 @@ Title and Description: Each task should have a title and a detailed description.
 
 Local Storage: The app should use local storage to save tasks. 
 
-![Alt text]("C:\Users\LENOVO\Downloads\WhatsApp Image 2024-01-10 at 5.21.05 PM (1).jpeg")
+![1](https://github.com/vanapallivinaysai/todoapplication/assets/128125391/47d42872-8a60-4a8a-bf81-c2c220e9bf22)
+
