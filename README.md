@@ -19,3 +19,5 @@ Task Status: Mark tasks as New, In Progress, or Completed.
 Title and Description: Each task should have a title and a detailed description. 
 
 Local Storage: The app should use local storage to save tasks. 
+
+![Alt text]("C:\Users\LENOVO\Downloads\WhatsApp Image 2024-01-10 at 5.21.05 PM (1).jpeg")
